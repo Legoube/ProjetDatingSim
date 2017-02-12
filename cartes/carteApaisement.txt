@@ -1,0 +1,9 @@
+S'assoir à côter de lui, essayer ce qu'il vous propose.
+S'enfuir loin de lui, s'en est assez !
+Soir
+Apaisement   
+Vous retrouver Totoro, il a déjà préparé un feu et parraît calme et apaisé. Il vous tend une feuille roulée, pleine d'herbe de Jeangrain.
+totoro  
+ 
++50
+-10
