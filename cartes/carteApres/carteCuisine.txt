@@ -1,0 +1,11 @@
+Classique
+"Allons-y l'ami, le poisson chat, ça n'attend pas ! "
+"Vous me prenez pour un commi ?"
+Apres-midi
+Cuisine
+Le pêcheur vous demande de l'aider a cuisiner un poissons chats, pour d'éventuels inviter ce soir.
+Pecheur
+Fourbe
+carteSuivante
++50
+-20

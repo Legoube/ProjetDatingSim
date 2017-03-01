@@ -1,0 +1,11 @@
+Classique
+"Avec plaisir compagnon, je suis flutiste depuis ma tendre enfance ! "
+"Trouvez-vous déjà dans chaussures et on verra après ..."
+Apres-midi
+Flute
+Revenu de son expédition avec une flute en bambou, l'inconnu viens vous accoster. "J'ai besoin d'un flutiste pour ce soir, vous devriez faire l'affaire...".
+Inconnu
+Inconnu
+carteSuivante
++45
+-10

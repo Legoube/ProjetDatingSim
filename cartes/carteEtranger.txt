@@ -1,9 +1,0 @@
-Le conduire jusqu'à la porte.
-Lui indiquer le chemin
-Matin
-InformerEtranger   
-Vous vous reveilllez et sortez dans la cour. Un étrange personnage s'approche. Vêtus d'un poncho haut en couleur et portant une espèce de guitare dans son dos, il vous demande la porte vers l'Arche.
-Etranger  
-    
-+50
-+10

@@ -1,0 +1,11 @@
+Classique
+Apprendre avec lui à lancer une poule.
+Apprendre avec lui à lancer un mouton.
+Apres-midi
+Lancer
+Totoro a envie de s'entrainer au lancer, il vous propose de s'exercer avec lui.
+Totoro
+Ami
+carteSuivante
++20
++30

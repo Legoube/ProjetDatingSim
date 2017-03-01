@@ -1,0 +1,11 @@
+Classique
+Le conduire jusqu'à la porte.
+Lui indiquer le chemin
+Matin
+InformerEtranger
+Vous sortez dans la cour. Un étrange personnage s'approche. Vêtus d'un poncho haut en couleur et portant une espèce de guitare dans son dos, il vous demande la porte vers l'Arche...
+Inconnu
+Inconnu
+carteSuivante
++50
++10

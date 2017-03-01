@@ -1,22 +1,25 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package projetdatingsim;
 
-import java.awt.Color;
-import java.awt.Graphics;
 import java.io.IOException;
 
-public class Main {
+/**
+ *
+ * @author etudiant
+ */
+public class Main { 
+    
     public static void main(String[] args) throws IOException {
-    System.out.println("hello");
-    
-    PileCartes maPileCartes = new PileCartes();
-    
-    maPileCartes.remplirPile();
-    
-    System.out.println(maPileCartes.sommet().getPeriode());
-    maPileCartes.sommet().afficheActionGauche();
-    maPileCartes.depiler();
-    System.out.println(maPileCartes.sommet().getPeriode());
-    maPileCartes.sommet().afficheActionGauche();
-
+        //Mise en place interface graphique
+        FenetreGraphique fG = new FenetreGraphique();
+        //Création d'un moteur
+        Moteur moteur;
+        moteur = new Moteur(fG);
+        //Setting de l'interface 
+        Moteur.setInterfaceDebutJeux();
     }
 }

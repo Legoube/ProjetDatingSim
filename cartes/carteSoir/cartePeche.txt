@@ -1,0 +1,11 @@
+Classique
+S'enfoncer dans les eaux avec lui.
+Le regarder faire.
+Soir
+pechePartie
+Vous retrouver sur votre chemin le drôle de pecheur. En effet, il pêche les poissons en nageant parmis eux. Il vous propose de l'accompagner.
+Pecheur
+Fourbe
+carteSuivante
++30
+-10

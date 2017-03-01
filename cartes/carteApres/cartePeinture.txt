@@ -1,9 +1,11 @@
+Classique
 L'aider à peindre son dos.
 Lui balancer le pot de peinture au visage.
 Apres-midi
-Peinture   
+Peinture
 Totoro veut se peindre le dos en vert pour passer inaperçu dans les airs.
-totoro  
-    
+Totoro
+Fourbe
+carteSuivante
 +30
--100
+-30

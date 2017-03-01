@@ -1,0 +1,11 @@
+Classique
+C'est d'accord. Je consacre ma vie à la protection de cette foret.
+Hum, cela demande réflexion. Je ne suis pas sûr...
+Soir
+Foret
+JOCKER --> Ce soir, Totoro vous propose d'entrer dans sa foret magique. Si vous l'acceptez, vous deviendrez une jeune pousse d'arbre, pour un jour grandir et atteindre les cieux...
+Totoro
+Ami
+carteSuivante
++100
+-10
